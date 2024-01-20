@@ -1,21 +1,21 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-1-6', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-1-17', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'cn.bcltx.link' },
-    { title: '一月六日我的博客正式上线！', url: 'cn.bcltx.link' }
+    { title: '欢迎来的我的博客！', url: '12.cn.eu.org' },
+    { title: '本网站由NotionNext4.0强力驱动', url: 'https://www.tangly1024.com/' }
   ],
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '一起编程',
   HEO_HERO_TITLE_2: '享受编程的乐趣',
-  HEO_HERO_TITLE_3: 'cn.bcltx.link',
+  HEO_HERO_TITLE_3: '12.cn.eu.org',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0',
-  HEO_HERO_TITLE_LINK: 'cn.bcltx.link',
+  HEO_HERO_TITLE_LINK: '12.cn.eu.org',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -95,9 +95,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: '',
+  HEO_SOCIAL_CARD_TITLE_2: '加我好友讨论分享',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加我好友',
+  HEO_SOCIAL_CARD_URL: 'http://wpa.qq.com/msgrd?v=3&uin=2423037319&site=qq&menu=yes',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
