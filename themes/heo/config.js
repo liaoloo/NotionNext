@@ -5,21 +5,21 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来的我的博客！', url: '12.cn.eu.org' },
+    { title: '欢迎来的我的博客！', url: 'noii.eu.org' },
     { title: '本网站由NotionNext4.0强力驱动', url: 'https://www.tangly1024.com/' }
   ],
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '一起编程',
   HEO_HERO_TITLE_2: '享受编程的乐趣',
-  HEO_HERO_TITLE_3: '12.cn.eu.org',
+  HEO_HERO_TITLE_3: 'noii.eu.org',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0',
-  HEO_HERO_TITLE_LINK: '12.cn.eu.org',
+  HEO_HERO_TITLE_LINK: 'noii.eu.org',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '首页', url: '/' },
-  HEO_HERO_CATEGORY_2: { title: '项目', url: '/tag/项目'},
+  HEO_HERO_CATEGORY_2: { title: '推荐', url: '/tag/推荐'},
   HEO_HERO_CATEGORY_3: { title: '分享', url: '/tag/分享' },
  
 
@@ -98,7 +98,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加我好友讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加我好友',
-  HEO_SOCIAL_CARD_URL: 'http://wpa.qq.com/msgrd?v=3&uin=2423037319&site=qq&menu=yes',
+  HEO_SOCIAL_CARD_URL: 'https://tool.gljlw.com/qq/?qq=2423037319',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
