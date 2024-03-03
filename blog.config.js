@@ -20,7 +20,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'LiaoGuanyi', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个普通的编码人', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'noii.eu.org', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '编程廖同学, 博客,Liaoloo的博客', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'qingyuanblog,轻源博客,轻源科技,轻源团队,轻源工作室', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'Liaoguanyi123@hotmail.com', // 邮箱地址 例如mail@tangly1024.com
