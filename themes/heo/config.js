@@ -9,6 +9,11 @@ const CONFIG = {
     { title: '本网站由NotionNext4.0强力驱动', url: 'https://www.tangly1024.com/' }
   ],
 
+  // 英雄区左右侧组件颠倒位置
+  HEO_HERO_REVERSE: false,
+  // 博客主体区左右侧组件颠倒位置
+  HEO_HERO_BODY_REVERSE: false,
+
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '一起编程',
   HEO_HERO_TITLE_2: '享受编程的乐趣',
